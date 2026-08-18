@@ -85,7 +85,7 @@ include:
   # - board: puchi_ble_v1
   #   shield: corne_left_peripheral nice_view_adapter nice_epaper
   #   artifact-name: puchi_corne_left_peripheral_view
-  #   ### nice_view END ###
+  #   ### nice_view END ###asd
 
     ### nice_oled START ###
     # nice_nano_v2 + nice_oled
